@@ -1,4 +1,4 @@
-FROM openjdk:8-jre-slim
+FROM oliverbuendia/openjdk8
 
 RUN apt update
 
